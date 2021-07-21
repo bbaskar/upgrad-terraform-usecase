@@ -1,2 +1,2 @@
 # upgrad-terraform-usecase
-Setup infrastructure (infra) using Terraform (tf)
+Terraform code which creates a secure SSH bastion on AWS to securely connect in SSH to your private instances.
